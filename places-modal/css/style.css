@@ -14,3 +14,15 @@
     background-repeat: no-repeat;
     background-image: url('https://upload.wikimedia.org/wikipedia/commons/e/ec/World_map_%28blue_dots%29.svg');
 }
+
+.clear{
+    clear: both;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.modal-dialog{
+    max-width: 70% !important;
+}
