@@ -32,12 +32,13 @@ li{
 }
 .selected-link{
     position: relative;
+    font-weight: 600;
 }
 .selected-link::before{
     content: '';
     position: absolute;
     width: 100%;
-    height: 1px;
+    height: 2px;
     background-color: rgb(66, 66, 66);
     top: 30px;
 }
@@ -174,7 +175,8 @@ li{
     color: var(--dark-gray);
     text-decoration: none;
     line-height: 40px;
-    margin: 0px 10px
+    margin: 0px 10px;
+    cursor: pointer;
 }
 
 .price{
