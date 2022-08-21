@@ -1,0 +1,22 @@
+
+.hero-name{
+    font-weight: bold;
+    line-height: 16px;
+    margin-bottom: 10px;
+}
+
+.hero-card{
+    cursor: pointer;
+}
+
+
+.main-img{
+    width: 100%;
+}
+
+.main .count{
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+
